@@ -164,7 +164,7 @@ class Departament
         }
 };
 
-class Companie
+class Companie //gen Apple
 {
     private:
         int nrDepartamente;
